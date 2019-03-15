@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "bitcointreelist.h": "c",
+        "bitcoininnertreenodelist.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "extrafuncts.h": "c"
+    }
+}
